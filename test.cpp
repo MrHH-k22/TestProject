@@ -10,3 +10,7 @@ int main()
     int a = 16546;
     return 0;
 }
+int sum(int a, int b)
+{
+    return a - b;
+}
